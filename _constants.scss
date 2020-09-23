@@ -1,0 +1,9 @@
+$header-green: #c0eea9;
+$body-green: #97d279;
+$pad-20: 20px;
+
+@mixin text {
+  max-width: 700px;
+  text-align: center;
+  padding: $pad-20;
+}
